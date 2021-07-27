@@ -1,0 +1,50 @@
+
+.btn{
+   display: inline;
+   position: absolute;
+}
+
+#bodydiv{
+    border: 0px dotted black;
+    width: 320px;
+    height: 562px;
+    float: right;
+    background-color: rgb(240, 35, 35);
+    margin-top:-6px;
+    text-align: center;
+    border-left: 2px dotted yellow;
+    display: inline;
+
+}
+
+#border{
+    display: inline;
+    position: absolute;
+    margin-left: 780px;
+    margin-top: -15px;
+    z-index: -1;
+}
+
+#navContainer{
+   width:0px;
+   height:0px;
+   display: inline;
+   position: absolute;
+   
+
+   float: right;
+}
+
+
+#space{
+    margin-top: 550px;
+    display: inline;
+    position: absolute;
+}
+
+.parentContainer {
+    display: flex;
+    justify-content: center;
+    height: 100%;
+    align-items: center;
+}

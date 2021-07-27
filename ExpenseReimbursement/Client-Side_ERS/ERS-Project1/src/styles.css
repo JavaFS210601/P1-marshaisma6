@@ -1,0 +1,13 @@
+body{
+    background-image:url("/assets/images/meditation.jpg");
+    background-size: 100%;
+    padding: 0px;
+    margin: 0px;
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    height: 100%;
+ }
+
+ html {
+     height: 100%;
+ }

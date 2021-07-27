@@ -1,0 +1,46 @@
+
+ 
+ .btn{
+    display: inline;
+    position: absolute;
+ }
+ 
+ #bodydiv{
+     border: 0px dotted black;
+     width: 320px;
+     height: 562px;
+     float: right;
+     background-color: rgb(240, 35, 35);
+     margin-top:-6px;
+     text-align: center;
+     border-left: 2px dotted yellow;
+     display: inline;
+ }
+ 
+
+ 
+ #border{
+     display: inline;
+     position: absolute;
+     margin-left: 780px;
+     margin-top: -15px;
+     z-index: -1;
+ }
+
+ #navContainer{
+    width:300px;
+    height:564px;
+    display: inline;
+    position: absolute;
+    margin: -14px 0px 0px 1066px;
+    border-top: 1px solid red;
+    border-right: 1px solid red;
+    float: right;
+ }
+
+
+ #space{
+     margin-top: 550px;
+     display: inline;
+     position: absolute;
+ }
